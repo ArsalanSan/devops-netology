@@ -1,4 +1,5 @@
 # devops-netology
+<<<<<<< HEAD
 
 Согласно примеру: https://github.com/github/gitignore/blob/master/Terraform.gitignore.
 
@@ -18,3 +19,6 @@ crash.*.log - исключить файл crash.любоенименование
 
 
 
+=======
+file modified
+>>>>>>> 79f4d196c74af6efe19e2cc08ed9a4016a3b67ee
