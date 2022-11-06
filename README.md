@@ -17,3 +17,4 @@ crash.log - не отслеживать файл crash.log
 
 crash.*.log - исключить файл crash.любоенименование.log
 
+add line for branch
